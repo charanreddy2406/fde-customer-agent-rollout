@@ -1,0 +1,13 @@
+# Oven help
+
+## Self clean
+The self clean cycle locks the door for 3 hours. Take out the racks and wipe up spills before you start it.
+
+## Error F3
+Error F3 means the temperature sensor is faulty. Turn the oven off at the breaker for 5 minutes and try again. If F3 returns, book a service visit.
+
+## Gas smell
+If you smell gas, leave the house and call your gas utility from outside. Do not use switches or phones inside.
+
+## Oven power
+Electric ranges need a 240 volt outlet on its own circuit. Gas ovens need a 120 volt outlet for the igniter.

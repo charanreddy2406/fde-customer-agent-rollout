@@ -1,0 +1,13 @@
+# Dishwasher help
+
+## Water will not drain
+Error code E4 means the dishwasher cannot drain. Check the filter at the bottom of the tub for food, then check the drain hose for a kink. Run a short rinse to confirm the water leaves.
+
+## Cleaning the filter
+Twist the filter a quarter turn and lift it out. Rinse it under the tap once a month and lock it back in place.
+
+## Cloudy glasses
+Cloudy glasses usually come from hard water. Fill the rinse aid dispenser and run the descale cycle once a quarter.
+
+## Dishes will not dry
+The dishwasher dries with residual heat. Turn on the heated dry option and leave the door closed for 20 minutes after the cycle ends.

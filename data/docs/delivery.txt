@@ -1,0 +1,10 @@
+# Delivery
+
+## Delivery window
+Every delivery has a 4 hour window. The driver calls you 30 minutes before arrival.
+
+## Rescheduling
+You can reschedule up to 24 hours before the window at no charge. A change inside 24 hours costs a 49 dollar fee.
+
+## Haul away
+Tidewater can take away your old appliance for 35 dollars when it delivers the new one.

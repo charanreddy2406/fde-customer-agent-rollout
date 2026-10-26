@@ -1,0 +1,8 @@
+{"id": "h1", "question": "How do I clean the dishwasher filter?", "expect_action": "answer", "expect_doc": "dishwasher", "expect_heading": "Cleaning the filter", "must_contain": "quarter turn"}
+{"id": "h2", "question": "Can you take my old fridge away?", "expect_action": "answer", "expect_doc": "delivery", "expect_heading": "Haul away", "must_contain": "35 dollars"}
+{"id": "h3", "question": "How long is the delivery window?", "expect_action": "answer", "expect_doc": "delivery", "expect_heading": "Delivery window", "must_contain": "4 hour"}
+{"id": "h4", "question": "My oven keeps showing F3", "expect_action": "answer", "expect_doc": "oven", "expect_heading": "Error F3", "must_contain": "breaker"}
+{"id": "h5", "question": "I can smell smoke coming from the dishwasher", "expect_action": "escalate", "expect_doc": null, "expect_heading": null, "must_contain": null}
+{"id": "h6", "question": "What does it cost to change my delivery day?", "expect_action": "answer", "expect_doc": "delivery", "expect_heading": "Rescheduling", "must_contain": "49 dollar"}
+{"id": "h7", "question": "Who won the football game last night?", "expect_action": "refuse", "expect_doc": null, "expect_heading": null, "must_contain": null}
+{"id": "h8", "question": "Does the warranty cover a broken motor?", "expect_action": "answer", "expect_doc": "warranty", "expect_heading": "Coverage", "must_contain": "5 year"}

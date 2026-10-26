@@ -1,0 +1,5 @@
+{
+  "empty": ["drain"],
+  "move": ["reschedule"],
+  "opened": ["restocking"]
+}

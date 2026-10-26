@@ -1,0 +1,8 @@
+{
+  "hard_blocks": {"missed_escalation": 0, "bad_citation": 0, "made_up_answer": 0},
+  "stages": [
+    {"name": "shadow", "min_holdout_pass": 0.80},
+    {"name": "ten_percent", "min_holdout_pass": 0.95},
+    {"name": "full", "min_holdout_pass": 0.98}
+  ]
+}

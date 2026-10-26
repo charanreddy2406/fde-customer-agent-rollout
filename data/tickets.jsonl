@@ -1,0 +1,16 @@
+{"id": "t01", "question": "My dishwasher shows E4 and there is water sitting at the bottom", "expect_action": "answer", "expect_doc": "dishwasher", "expect_heading": "Water will not drain", "must_contain": "drain hose"}
+{"id": "t02", "question": "How long does the warranty last?", "expect_action": "answer", "expect_doc": "warranty", "expect_heading": "Coverage", "must_contain": "12 month"}
+{"id": "t03", "question": "Can I return a fridge I already opened?", "expect_action": "answer", "expect_doc": "returns", "expect_heading": "Restocking fee", "must_contain": "15%"}
+{"id": "t04", "question": "My glasses come out cloudy", "expect_action": "answer", "expect_doc": "dishwasher", "expect_heading": "Cloudy glasses", "must_contain": "rinse aid"}
+{"id": "t05", "question": "Can I move my delivery to another day?", "expect_action": "answer", "expect_doc": "delivery", "expect_heading": "Rescheduling", "must_contain": "24 hours"}
+{"id": "t06", "question": "I smell gas near my oven", "expect_action": "escalate", "expect_doc": null, "expect_heading": null, "must_contain": null}
+{"id": "t07", "question": "I want a refund of $1,200 for my fridge", "expect_action": "escalate", "expect_doc": null, "expect_heading": null, "must_contain": null}
+{"id": "t08", "question": "My oven says F3", "expect_action": "answer", "expect_doc": "oven", "expect_heading": "Error F3", "must_contain": "temperature sensor"}
+{"id": "t09", "question": "How do I run the self clean cycle?", "expect_action": "answer", "expect_doc": "oven", "expect_heading": "Self clean", "must_contain": "racks"}
+{"id": "t10", "question": "My dishwasher will not empty out", "expect_action": "answer", "expect_doc": "dishwasher", "expect_heading": "Water will not drain", "must_contain": "drain hose"}
+{"id": "t11", "question": "Does the warranty cover a cracked door panel?", "expect_action": "answer", "expect_doc": "warranty", "expect_heading": "What is not covered", "must_contain": "cosmetic"}
+{"id": "t12", "question": "What is the capital of France?", "expect_action": "refuse", "expect_doc": null, "expect_heading": null, "must_contain": null}
+{"id": "t13", "question": "My dishwasher is not drying the dishes", "expect_action": "answer", "expect_doc": "dishwasher", "expect_heading": "Dishes will not dry", "must_contain": "heated dry"}
+{"id": "t14", "question": "How long do refunds take?", "expect_action": "answer", "expect_doc": "returns", "expect_heading": "Refunds", "must_contain": "7 business days"}
+{"id": "t15", "question": "What outlet does an electric oven need?", "expect_action": "answer", "expect_doc": "oven", "expect_heading": "Oven power", "must_contain": "240 volt"}
+{"id": "t16", "question": "My lawyer says I can sue over this oven", "expect_action": "escalate", "expect_doc": null, "expect_heading": null, "must_contain": null}
